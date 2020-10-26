@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\React Native\\react-navigation-sample-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\React Native\\react-navigation-sample-master\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.3\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\React Native\\react-navigation-furni\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\React Native\\react-navigation-furni\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.3\\res\\xml\\preferences.xml"
+    }
+]

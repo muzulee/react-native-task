@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "email",
+    "text": "Message",
+    "route": "message",
+    "badge": 3
+  },
+  {
+    "icon": "notifications",
+    "text": "Notification",
+    "route": "notifications",
+    "badge": 5
+  },
+  {
+    "icon": "account-circle",
+    "text": "Account Details",
+    "route": "profile",
+    "badge": 0
+  },
+  {
+    "icon": "shopping-cart",
+    "text": "My Purchase",
+    "route": "shop",
+    "badge": 0
+  },
+  {
+    "icon": "settings",
+    "text": "Settings",
+    "route": "Settings",
+    "badge": 0
+  }
+]

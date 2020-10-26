@@ -1,0 +1,37 @@
+[
+  {
+    "img": "https://png.pngtree.com/png-clipart/20190920/original/pngtree-black-furniture-office-chair-illustration-png-image_4614922.jpg",
+    "text": "Chair",
+    "num": 1,
+    "cut_price": "$46",
+    "price": "$378"
+  },
+  {
+    "img": "https://png.pngtree.com/png-clipart/20190516/original/pngtree-solid-wooden-tables-and-tables-png-image_4282198.jpg",
+    "text": "Table",
+    "num": 1,
+    "cut_price": "$90",
+    "price": "$345"
+  },
+  {
+    "img": "https://png.pngtree.com/png-clipart/20190706/original/pngtree-hand-painted-furniture-couch-grey-png-image_4370404.jpg",
+    "text": "Couch",
+    "num": 1,
+    "cut_price": "$24",
+    "price": "$600"
+  },
+  {
+    "img": "https://png.pngtree.com/png-clipart/20190920/original/pngtree-cartoon-light-bedroom-furniture-bed-png-image_4613634.jpg",
+    "text": "Bed",
+    "num": 1,
+    "cut_price": "$23",
+    "price": "$314"
+  },
+  {
+    "img": "https://png.pngtree.com/png-clipart/20190603/original/pngtree-leather-sofa-png-image_40894.jpg",
+    "text": "Sofa",
+    "num": 1,
+    "cut_price": "$54",
+    "price": "$450"
+  }
+]
